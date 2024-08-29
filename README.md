@@ -53,4 +53,4 @@ Huge thanks to <a href="https://twitter.com/transitive_bs">Travis Fischer</a> fo
 
 ## License
 
-MIT © Gabe Ragland (follow me on <a href="https://twitter.com/gabe_ragland">Twitter</a>)
+© Ebenezer Kobina Acquah (follow me on <a href="https://x.com/acquah73">Twitter</a>)
